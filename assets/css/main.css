@@ -3816,7 +3816,6 @@ input, select, textarea {
 		padding: 12em 0 10em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
@@ -3966,7 +3965,6 @@ input, select, textarea {
 	body.landing #page-wrapper {
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
@@ -3987,7 +3985,6 @@ input, select, textarea {
 	body.is-mobile.landing .wrapper.style4 {
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../cryptoknightkingdom.github.io/assets/css/images/banner.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
